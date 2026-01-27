@@ -11,9 +11,9 @@ variable "sa_prefix" {
 }
 
 variable "subscription_shortcode" {
-  description = "Subscription abbreviation (e.g., mip, mmsw)"
+  description = "Subscription abbreviation (e.g., app)"
   type        = string
-  default     = "mip"
+  default     = "app"
 }
 
 variable "environment" {

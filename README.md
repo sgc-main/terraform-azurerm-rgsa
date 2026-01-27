@@ -422,7 +422,7 @@ module "tfstate" {
   location = "eastus"
 
   sa_prefix              = "comtfstate"
-  subscription_shortcode = "mmsw"
+  subscription_shortcode = "app"
   environment            = "prd"
 
   replication_type = "RAGZRS"
