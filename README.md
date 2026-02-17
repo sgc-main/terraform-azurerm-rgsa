@@ -1,4 +1,4 @@
-# Terraform Azure Storage Account Module (terraform-azr-rgsa)
+# Terraform Azure Storage Account Module
 
 Comprehensive Terraform module for creating and managing Azure Storage Accounts with support for remote state storage, complete service configurations, and enterprise-grade security features.
 
